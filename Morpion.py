@@ -1,7 +1,6 @@
 # Creation du je du Morpion grace au module pygame
 import sys
-# importation du module pygame
-
+#pygame importation du module
 import pygame
 from pygame.locals import *
 
